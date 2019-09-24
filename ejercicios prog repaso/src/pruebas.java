@@ -16,7 +16,7 @@ public class pruebas extends JFrame{
 	public static void main(String[] args) {
 		pruebas ventana = new pruebas();
 		ventana.setVisible(true);
-		System.out.println("hola mundo");
+		System.out.println("no me gusta este mensaje");
 
 	}
 
